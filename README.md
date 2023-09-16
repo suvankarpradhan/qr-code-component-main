@@ -22,8 +22,8 @@ HTML + CSS
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/suvankarpradhan/qr-code-component-main.git)
-- Live Site URL: [Click here](https://suvankarpradhan.github.io/qr-code-component-main.git)
+- Solution URL: [Click here](https://github.com/suvankarpradhan/qr-code-component-main)
+- Live Site URL: [Click here](https://suvankarpradhan.github.io/qr-code-component-main)
 
 ## My process
 
