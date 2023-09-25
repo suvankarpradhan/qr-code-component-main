@@ -17,13 +17,13 @@ HTML + CSS
 
 ### Screenshot
 
-![desktop-img](./screenshot/desktop.png)
+![desktop-img](./screenshot/Desktop.png)
 ![mobile-img](./screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/suvankarpradhan/qr-code-component-main.git)
-- Live Site URL: [Click here](https://suvankarpradhan.github.io/qr-code-component-main.git)
+- Solution URL: [Click here](https://github.com/suvankarpradhan/qr-code-component-main)
+- Live Site URL: [Click here](https://suvankarpradhan.github.io/qr-code-component-main)
 
 ## My process
 
